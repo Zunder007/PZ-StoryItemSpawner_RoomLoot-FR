@@ -1,0 +1,4 @@
+Sandbox_FR = {
+    Sandbox_StoryItemSpawnerRoomLootBaseChanceOnFloor = "Butin : chance d'apparition au sol (%)",
+    Sandbox_StoryItemSpawnerRoomLootBaseChanceOnFurniture = "Butin : chance d'apparition dans les meubles (%)",
+}
